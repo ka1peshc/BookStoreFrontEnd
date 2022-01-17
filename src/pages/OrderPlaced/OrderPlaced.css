@@ -1,0 +1,38 @@
+.order{
+    width: 80vw;
+    height: 82vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 100px;
+    top:56px;
+}
+
+.orderlogo{
+    width: 194px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.table{
+    width: 661px;   
+}
+
+.hurray{
+    font-weight: 500;
+}
+
+.ant-table-pagination{
+    display: none;
+}
+
+.continueShopping{
+    background-color: rgb(85 82 247);
+    width: 168px;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+}

@@ -1,0 +1,32 @@
+.dbContainer {
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.dbDisplayContainer{
+    width: 80%;
+    min-height: 84.5vh;
+    margin-inline: 10%;
+    margin-top: 3vh;
+}
+.dbDisplayContainerBook{
+    width: 80%;
+    min-height: 84.5vh;
+    margin-inline: 10%;
+    margin-top: 3vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap:10px;
+    flex-wrap: wrap;
+}
+.dbBookCount{
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    margin-left: 20vh;
+}
+article{
+    min-height: 84.5vh;
+}

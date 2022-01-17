@@ -1,0 +1,12 @@
+.PersonalDetailContainer{
+    display: flex;
+    flex-direction: column;
+}
+.rowOne{
+    display: flex;
+    flex-direction: row;
+}
+.personaldetails{
+    display: flex;
+    flex-direction: column;
+}

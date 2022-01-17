@@ -1,0 +1,61 @@
+.myWishListContainer{
+    height:auto;
+    width: 90%;
+    border: 1px solid #E4E4E4;
+}
+.mwlBookCount{
+    height:55px;
+    width:100%;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    border: 1px solid #E4E4E4;
+    border-radius: 1px;
+    text-align: left;
+}
+.mwlNumber{
+    padding-left: 39px;
+}
+.MyorderOuterContainer{
+    display: flex;
+    flex-direction: column;
+}
+.mwlBookContainer {
+    width: 93%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-inline: 39px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #E4E4E4;
+    margin-top:20px;
+}
+.MyOrderBookContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 34px;
+    border: 1px solid #E4E4E4;
+}
+.mwlGroup1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50%;
+}
+.mwlImageContainer{
+    width: fit-content;
+    height: fit-content;
+}
+.mwlGroup2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.greenDot{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: #26A541;
+    margin-right: 5px;
+}

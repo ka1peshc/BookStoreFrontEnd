@@ -1,0 +1,45 @@
+.logo2{
+    height: 3vh;
+    width:100%;
+    margin-top: 10px;
+}
+.popup{
+    border: 1px solid gray;
+    height: 22vh;
+    width:14vw;
+    margin-top: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 5px -5px gray,
+    -5px 0 5px -5px gray;
+}
+.popupA{
+    height: 18vh;
+    width:12vw;
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.pop2{
+    margin: 2px;
+    color: gray
+}
+.pop3{
+    margin-top: 7px;
+    box-shadow: 5px maroon;
+}
+.pop4{
+    color: gray;
+    margin-top: 5px;
+    height: 1px;
+    width: 12vw;
+}
+.pop5{
+    color: gray;
+    margin-top: 20px;
+}
+.pop6{
+    color: gray;
+    margin-top: 3px;
+}
